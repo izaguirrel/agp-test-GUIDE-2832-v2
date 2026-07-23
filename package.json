@@ -1,0 +1,11 @@
+{
+  "name": "agp-test-guide2832",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build OK'",
+    "test": "echo 'Tests OK'"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}

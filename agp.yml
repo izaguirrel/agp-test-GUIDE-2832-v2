@@ -1,0 +1,3 @@
+version: 1
+limits:
+  closedPrCooldownDays: 7
